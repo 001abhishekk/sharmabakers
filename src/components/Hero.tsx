@@ -43,7 +43,7 @@ const Hero = () => {
                 </a>
               </div>
               <a
-                href="https://maps.app.goo.gl/U7KsZY41Xixxa3wD7"
+                href="https://maps.app.goo.gl/PHcPD53wmMtoxRG86"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center space-x-2 text-white/90 hover:text-white transition-colors"

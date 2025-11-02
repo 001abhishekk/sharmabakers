@@ -37,7 +37,7 @@ const Contact = () => {
                       Address
                     </h3>
                     <p className="text-gray-700">
-                      Model Town Market, Kurukshetra, Haryana
+                      paras road , opposite hindustan medical laboratory , ayush chowk, Kurukshetra, Haryana 136118
                     </p>
                   </div>
                 </div>

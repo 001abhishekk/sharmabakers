@@ -91,7 +91,7 @@ const Contact = () => {
                 <span>WhatsApp</span>
               </a>
               <a
-                href="https://maps.app.goo.gl/U7KsZY41Xixxa3wD7"
+                href="https://maps.app.goo.gl/AryowKV9CJWU1vnV9"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center space-x-2 bg-blue-600 text-white px-6 py-4 rounded-lg hover:bg-blue-700 transition-colors shadow-lg font-semibold"

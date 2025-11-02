@@ -301,7 +301,7 @@ const AboutPage = () => {
                   <div>
                     <p className="font-semibold text-lg mb-1">Address</p>
                     <p className="text-amber-100">
-                      Model Town Market, Kurukshetra, Haryana
+                      Paras Road , Opposite Hindustan Medical Laboratory , Ayush Chowk, Kurukshetra, Haryana 136118
                     </p>
                   </div>
                 </div>
@@ -359,7 +359,7 @@ const AboutPage = () => {
 
             <div className="flex flex-col space-y-4">
               <a
-                href="https://maps.app.goo.gl/U7KsZY41Xixxa3wD7"
+                href="https://maps.app.goo.gl/AryowKV9CJWU1vnV9"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-amber-400 text-amber-900 px-8 py-4 rounded-lg font-semibold text-lg hover:bg-amber-300 transition-colors text-center"

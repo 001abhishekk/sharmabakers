@@ -142,7 +142,7 @@ const AboutPage = () => {
             <div className="text-center">
               <div className="relative h-80 rounded-2xl overflow-hidden shadow-xl mb-6">
                 <img
-                  src="/sharma-bakers-owner-storefront-kurukshetra.jpg"
+                  src="/sharma-bakers-family-kurukshetra.jpg"
                   alt="Sharma Bakers owner and founder"
                   loading="lazy"
                   className="w-full h-full object-cover"

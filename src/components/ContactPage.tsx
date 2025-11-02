@@ -72,8 +72,7 @@ const ContactPage = () => {
                   <div>
                     <h3 className="font-bold text-gray-900 mb-2 text-xl">Address</h3>
                     <p className="text-gray-700 text-lg leading-relaxed">
-                      Sharma Bakers, Paras Road , Opposite Hindustan Medical Laboratory,<br />
-                      , Ayush Chowk,<br /> 
+                      Sharma Bakers, Paras Road , <br />Opposite Hindustan Medical Laboratory, Ayush Chowk,<br /> 
                       Kurukshetra, Haryana 136118
                     </p>
                     <a

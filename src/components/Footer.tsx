@@ -54,7 +54,7 @@ const Footer = ({ onNavigate }: FooterProps) => {
           >
             <div className="mb-4">
               <img
-                src="/logo.svg"
+                src="/sharma-bakers-logo-kurukshetra.png"
                 alt="Sharma Bakers Logo"
                 className="h-16 w-auto mb-3"
               />

@@ -36,7 +36,7 @@ function App() {
       '@context': 'https://schema.org',
       '@type': 'Bakery',
       'name': 'Sharma Bakers',
-      'image': 'https://sharmabakers.in/logo.svg',
+      'image': 'https://sharmabakers.in/sharma-bakers-logo-kurukshetra.png',
       'url': 'https://sharmabakers.in',
       'telephone': '+918950345254',
       'priceRange': '₹',

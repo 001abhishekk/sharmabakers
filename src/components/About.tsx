@@ -5,8 +5,8 @@ const About = () => {
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div className="relative h-[400px] lg:h-[500px] rounded-2xl overflow-hidden shadow-2xl">
             <img
-              src="https://images.pexels.com/photos/1109197/pexels-photo-1109197.jpeg?auto=compress&cs=tinysrgb&w=1200"
-              alt="Sharma Bakers shop"
+              src="/sharma-bakers-owner-storefront-kurukshetra.jpg"
+              alt="Sharma Bakers owner outside shop in Kurukshetra"
               className="w-full h-full object-cover"
             />
           </div>

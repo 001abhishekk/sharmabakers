@@ -74,7 +74,7 @@ const Header = ({ onNavigate }: HeaderProps) => {
             className="flex items-center space-x-2 hover:opacity-90 transition-opacity"
           >
             <img
-              src="/logo.svg"
+              src="/sharma-bakers-logo-kurukshetra.png"
               alt="Sharma Bakers Logo"
               className="h-12 w-auto"
             />
@@ -82,7 +82,7 @@ const Header = ({ onNavigate }: HeaderProps) => {
 
           <nav className="hidden lg:flex items-center space-x-8">
             <button
-              onClick={() => scrollToSection('home')}
+              onClick={handleHomeClick}
               className="text-gray-700 hover:text-amber-600 transition-colors font-medium"
             >
               Home
@@ -150,7 +150,7 @@ const Header = ({ onNavigate }: HeaderProps) => {
           <nav className="lg:hidden mt-4 pb-4 border-t border-gray-200 pt-4">
             <div className="flex flex-col space-y-3">
               <button
-                onClick={() => scrollToSection('home')}
+                onClick={handleHomeClick}
                 className="text-left text-gray-700 hover:text-amber-600 transition-colors font-medium py-2"
               >
                 Home

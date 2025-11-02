@@ -40,8 +40,8 @@ const AboutPage = () => {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="relative h-[400px] lg:h-[500px] rounded-2xl overflow-hidden shadow-2xl">
               <img
-                src="https://images.pexels.com/photos/1109197/pexels-photo-1109197.jpeg?auto=compress&cs=tinysrgb&w=1200"
-                alt="Sharma Bakers shop counter"
+                src="/sharma-bakers-owner-storefront-kurukshetra.jpg"
+                alt="Sharma Bakers owner outside shop in Kurukshetra"
                 loading="lazy"
                 className="w-full h-full object-cover"
               />
@@ -138,58 +138,22 @@ const AboutPage = () => {
             <div className="w-24 h-1 bg-amber-600 mx-auto"></div>
           </div>
 
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
+          <div className="max-w-md mx-auto mb-12">
             <div className="text-center">
-              <div className="relative h-64 rounded-2xl overflow-hidden shadow-lg mb-6 bg-gray-200">
+              <div className="relative h-80 rounded-2xl overflow-hidden shadow-xl mb-6">
                 <img
-                  src="https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=400"
-                  alt="Head Baker"
+                  src="/sharma-bakers-owner-storefront-kurukshetra.jpg"
+                  alt="Sharma Bakers owner and founder"
                   loading="lazy"
                   className="w-full h-full object-cover"
                 />
               </div>
-              <h3 className="text-2xl font-bold text-amber-900 mb-2">
+              <h3 className="text-3xl font-bold text-amber-900 mb-3">
                 Sharma Family
               </h3>
-              <p className="text-amber-600 font-semibold mb-3">Owners & Head Bakers</p>
-              <p className="text-gray-700 leading-relaxed">
-                Three generations of baking expertise in one family.
-              </p>
-            </div>
-
-            <div className="text-center">
-              <div className="relative h-64 rounded-2xl overflow-hidden shadow-lg mb-6 bg-gray-200">
-                <img
-                  src="https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=400"
-                  alt="Cake Artist"
-                  loading="lazy"
-                  className="w-full h-full object-cover"
-                />
-              </div>
-              <h3 className="text-2xl font-bold text-amber-900 mb-2">
-                Cake Artists
-              </h3>
-              <p className="text-amber-600 font-semibold mb-3">Decorators & Designers</p>
-              <p className="text-gray-700 leading-relaxed">
-                Turning dreams into delicious masterpieces.
-              </p>
-            </div>
-
-            <div className="text-center">
-              <div className="relative h-64 rounded-2xl overflow-hidden shadow-lg mb-6 bg-gray-200">
-                <img
-                  src="https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=400"
-                  alt="Counter Team"
-                  loading="lazy"
-                  className="w-full h-full object-cover"
-                />
-              </div>
-              <h3 className="text-2xl font-bold text-amber-900 mb-2">
-                Counter Team
-              </h3>
-              <p className="text-amber-600 font-semibold mb-3">Customer Care Specialists</p>
-              <p className="text-gray-700 leading-relaxed">
-                Bringing warmth and smiles to every interaction.
+              <p className="text-amber-600 font-semibold mb-4 text-lg">Owner & Head Baker</p>
+              <p className="text-gray-700 leading-relaxed text-lg">
+                Passionate about bringing fresh, quality baked goods to Kurukshetra since 2020. Every recipe perfected with dedication and love.
               </p>
             </div>
           </div>

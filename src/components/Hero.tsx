@@ -50,7 +50,7 @@ const Hero = () => {
               >
                 <MapPin size={20} />
                 <span className="text-lg">
-                  Visit us at Model Town Market, Kurukshetra
+                  Visit us at Paras road , Opposite Hindustan Medical Laboratory , Ayush Chowk, Kurukshetra, Haryana 136118
                 </span>
               </a>
             </div>

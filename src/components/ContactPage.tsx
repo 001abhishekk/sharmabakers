@@ -72,11 +72,12 @@ const ContactPage = () => {
                   <div>
                     <h3 className="font-bold text-gray-900 mb-2 text-xl">Address</h3>
                     <p className="text-gray-700 text-lg leading-relaxed">
-                      Sharma Bakers, Model Town Market,<br />
-                      Kurukshetra, Haryana
+                      Sharma Bakers, Paras Road , Opposite Hindustan Medical Laboratory,<br />
+                      , Ayush Chowk,<br /> 
+                      Kurukshetra, Haryana 136118
                     </p>
                     <a
-                      href="https://maps.app.goo.gl/U7KsZY41Xixxa3wD7"
+                      href="https://maps.app.goo.gl/AryowKV9CJWU1vnV9"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-blue-600 hover:text-blue-700 font-medium inline-flex items-center space-x-1 mt-2"
